@@ -1,22 +1,22 @@
 {
-	"movies": [
+	"Restaurants in Berkeley": [
 		{
-			"Title": "Lost In Translation",
-			"Director": "Sofia Coppola",
-			"Rating": "R",
-			"Year": "2003"
+			"Name": "Sumo Roll",
+			"Address": "2173 Allston Way, Berkeley, CA 94704",
+			"Rating": "🌟🌟🌟🌟🌟",
+			"Favorite Dish": "American Waqyu Combo"
 		},
 		{
-			"Title": "Casino Royale",
-			"Director": "Martin Campbell",
-			"Rating": "PG-13",
-			"Year": "2006"
+			"Name": "Easterly Hunan Cuisine",
+			"Address": "2142 Center St, Berkeley, CA 94704",
+			"Rating": "🌟🌟🌟🌟",
+			"Favorite Dish": "Stir-Fried Beef with Pepper"
 		},
 		{
-			"Title": "The Dark Knight",
-			"Director": "Christopher Nolan",
-			"Rating": "PG-13",
-			"Year": "2008"
+			"Name": "T-Toust",
+			"Address": "2433 Durant Ave, Berkeley, CA 94704",
+			"Rating": "🌟🌟🌟🌟",
+			"Favorite Dish": "Hotpot Bibim Bop"
 		}
 	]
 }
